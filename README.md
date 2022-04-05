@@ -1,4 +1,8 @@
-### Hi there 👋
+# about me
+hiya, i'm justin. 👋 i sometimes like to program, but it's not so frequent these days. sad face.
+
+# what im doing
+making this readme, because i didn't know you could make one for your profile page. so cool.
 
 <!--
 **JustIntroverted/justintroverted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
